@@ -1,36 +1,10 @@
 
 # Project Priview
-# 📡 Sistem Absensi Mahasiswa Berbasis RFID
+# Sistem Absensi Mahasiswa Berbasis RFID
 
 Aplikasi **Sistem Absensi Mahasiswa Ilmu Komputer** merupakan aplikasi desktop berbasis **Java GUI (NetBeans 8.2)** yang dirancang untuk membantu proses **absensi perkuliahan** menggunakan **Kartu Tanda Mahasiswa (KTM) berbasis RFID**.
 
-Aplikasi ini dikembangkan sebagai **Project UTS Semester 3 – Mata Kuliah Pemrograman 2** dengan penerapan konsep **Object Oriented Programming (OOP)**.
-
----
-
-## 🛠️ Tech Stack
-- Java (JDK 8)
-- Java Swing (GUI)
-- NetBeans IDE 8.2
-- Konsep Object Oriented Programming (OOP)
-
----
-
-## 🖥️ GUI Components
-- **Containers**: JFrame, JPanel
-- **Controls**: JButton, JTextField, JComboBox, JTable
-- **Menus**: JMenuBar, JMenu, JMenuItem
-
----
-
-## 🧠 OOP Concepts Used
-- **Inheritance** – Pewarisan atribut dan method dari class induk ke class turunan
-- **Encapsulation** – Pengamanan data menggunakan access modifier (private, protected, public)
-- **Polymorphism** – Method dengan nama yang sama namun memiliki perilaku berbeda
-- **Constructor** – Inisialisasi objek saat pembuatan class
-- **Setter & Getter** – Pengelolaan dan pengambilan data atribut
-- **Interface** – Kontrak method yang diimplementasikan oleh class
-- **Dynamic Polymorphism** – Penentuan method saat runtime (method overriding)
+Aplikasi ini dikembangkan sebagai **Project UAS Semester 3 – Mata Kuliah Pemrograman 2**.
 
 ---
 
