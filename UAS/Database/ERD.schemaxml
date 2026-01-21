@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemadesigner version="6.5">
+<source>
+<database charset="utf8mb4" collation="utf8mb4_general_ci">absensi_mahasiswa</database>
+</source>
+<canvas zoom="100">
+<tables>
+<table name="daftar_mahasiswa" view="colnames">
+<left>244</left>
+<top>72</top>
+<width>78</width>
+<height>112</height>
+<sql_create_table>CREATE TABLE `daftar_mahasiswa` (
+  `nim` bigint(20) NOT NULL,
+  `nama` varchar(100) NOT NULL,
+  PRIMARY KEY (`nim`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci</sql_create_table>
+</table>
+<table name="absensi" view="colnames">
+<left>90</left>
+<top>75</top>
+<width>116</width>
+<height>197</height>
+<sql_create_table>CREATE TABLE `absensi` (
+  `id_absensi` int(11) NOT NULL AUTO_INCREMENT,
+  `nim` bigint(20) NOT NULL,
+  `mata_kuliah` varchar(100) NOT NULL,
+  `tanggal` date NOT NULL,
+  `jam_masuk` time NOT NULL,
+  `jam_keluar` time DEFAULT NULL,
+  `status` varchar(20) DEFAULT NULL,
+  PRIMARY KEY (`id_absensi`),
+  KEY `Nim absensi ke nim mahasiswa` (`nim`),
+  CONSTRAINT `Nim absensi ke nim mahasiswa` FOREIGN KEY (`nim`) REFERENCES `daftar_mahasiswa` (`nim`) ON DELETE NO ACTION ON UPDATE CASCADE
+) ENGINE=InnoDB AUTO_INCREMENT=96 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci</sql_create_table>
+</table>
+</tables>
+</canvas>
+</schemadesigner>
