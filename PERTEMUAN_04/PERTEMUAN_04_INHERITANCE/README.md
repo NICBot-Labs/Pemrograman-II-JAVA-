@@ -1,6 +1,6 @@
 ### Project Priview
 <p align="left">
-Penggunaan iharitance , apa itu iharitace? Inheritance adalah salah satu konsep utama dalam Pemrograman Berorientasi Objek (PBO),
+Penggunaan inheritance , apa itu inheritance? Inheritance adalah salah satu konsep utama dalam Pemrograman Berorientasi Objek (PBO),
 di mana class turunan (subclass) mewarisi atribut dan method dari class induk (superclass).
 </p>
 <p align="left">
