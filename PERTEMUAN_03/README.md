@@ -1,12 +1,11 @@
 ### Project Priview
 <p align="left">
-  
+Penggunaan fungsi, prosuder, fungsi berparameter, dan prosedure berparameter
 </p>
 <p align="left">
-<img width="423" height="468" alt="image" src="https://github.com/user-attachments/assets/d6f9aa77-46e2-402a-8c79-995d7b7d5adf" />
+<img width="542" height="254" alt="image" src="https://github.com/user-attachments/assets/de63a19d-b6f4-44b7-affc-409683c46520" />
 </p>
 
 <p align="left">
-  <b>Java · Console Application · Percabangan · Input Validation</b><br>
-  Program simulasi rekening bank untuk autentikasi, pengecekan saldo, setor dan tarik uang berbasis console
+  
 </p>
