@@ -1,6 +1,6 @@
 ### Project Priview
 <p align="left">
-Pengguaan tentang polymorfisme, apa itu ?
+Pengguaan tentang polymorfisme, apa itu ? konsep PBO di mana satu method yang sama dapat memiliki perilaku yang berbeda pada objek yang berbeda.
 </p>
 <p align="left">
 <br><img width="564" height="220" alt="image" src="https://github.com/user-attachments/assets/951cd389-8fce-4a37-8679-c2d695cd8b43" /> </br>
