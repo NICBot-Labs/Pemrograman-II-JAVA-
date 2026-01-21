@@ -1,11 +1,11 @@
 ### Project Priview
 
 <p align="center">
-<img width="469" height="369" alt="image" src="https://github.com/user-attachments/assets/68478d07-197e-4145-a82c-bf70781f6ea0" />
+<img width="423" height="468" alt="image" src="https://github.com/user-attachments/assets/d6f9aa77-46e2-402a-8c79-995d7b7d5adf" />
 </p>
 
 <p align="center">
-  <b>Java · Console Application · Array · Loop</b><br>
-  Program pengolahan data nilai mahasiswa untuk menentukan grade, rata-rata nilai, nilai tertinggi, dan nilai terendah
+  <b>Java · Console Application · Percabangan · Input Validation</b><br>
+  Program simulasi rekening bank untuk autentikasi, pengecekan saldo, setor dan tarik uang berbasis console
 </p>
 
