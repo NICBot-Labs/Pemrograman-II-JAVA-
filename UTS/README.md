@@ -20,7 +20,7 @@ Menggambarkan hubungan antara class dengan class lain dalam konteks OOP
 <img width="636" height="1255" alt="ULM UTS drawio" src="https://github.com/user-attachments/assets/92d7432b-f055-4ff9-b01e-2e515b672764" />
 
 <br><br>
-## LINK YOUTUBE PENJELSAN & DEMONSTRASI :       --- On proses ---
+## LINK YOUTUBE PENJELSAN & DEMONSTRASI :  https://www.youtube.com/watch?v=5fu2-KfugxI
 
 <br><br>
 ## **Hasil GUI dari project IVENTARIS PRODUK**
