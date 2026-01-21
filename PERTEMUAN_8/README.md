@@ -8,7 +8,9 @@ Aplikasi ini dikembangkan sebagai **Project UAS Semester 3 – Mata Kuliah Pemro
 
 ---
 
-## 📋 Deskripsi Fitur Aplikasi
+<br>
+<br>
+## Deskripsi Fitur Aplikasi
 
 ### 📅 1. Jadwal Kuliah
 Digunakan untuk menampilkan jadwal mata kuliah Semester 03.
