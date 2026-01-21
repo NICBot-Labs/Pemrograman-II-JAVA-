@@ -1,7 +1,7 @@
 ### Project Priview
 
 <p align="center">
-  <img width="1032" height="515" alt="image" src="https://github.com/user-attachments/assets/48cdabfc-e8f9-4fdb-9ce0-f1e851b98bdd" />
+<img width="469" height="369" alt="image" src="https://github.com/user-attachments/assets/68478d07-197e-4145-a82c-bf70781f6ea0" />
 </p>
 
 <p align="center">
