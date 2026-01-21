@@ -1,7 +1,7 @@
 
 # Project Priview
+<br>### Sistem Absensi Mahasiswa Berbasis RFID Menggunakan GUI Java (NetBeans)
 <p align="left">
-### Sistem Absensi Mahasiswa Berbasis RFID Menggunakan GUI Java (NetBeans)<br>
 Aplikasi Sistem Absensi Mahasiswa Ilmu Komputer merupakan aplikasi desktop berbasis Java GUI (NetBeans) yang digunakan untuk mengelola jadwal perkuliahan, data mahasiswa, registrasi kartu RFID (KTM), serta proses absensi masuk dan keluar secara terkomputerisasi.
 </p>
 <p align="left">
