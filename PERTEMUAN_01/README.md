@@ -1,6 +1,6 @@
-## 📌 Project Showcase
+## Project Showcase
 
-| Preview | Deskripsi |
+| HASIL Project| Deskripsi project |
 |--------|-----------|
 | <img src="assets/project1.png" width="300"/> | **Project Name**  
 - Teknologi: Java, MySQL  
