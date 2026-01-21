@@ -13,20 +13,22 @@ Aplikasi ini dikembangkan sebagai **Project UAS Semester 3 – Mata Kuliah Pemro
 
 ## Deskripsi Fitur Aplikasi
 
-### 📅 1. Jadwal Kuliah
+### 1. Jadwal Kuliah
 Digunakan untuk menampilkan jadwal mata kuliah Semester 03.
-
 Fungsi:
 - Menampilkan kode jadwal
 - Menampilkan mata kuliah
 - Menampilkan hari perkuliahan
 - Menampilkan waktu mulai dan waktu akhir
+  
+</br>
+
+<img width="1044" height="655" alt="image" src="https://github.com/user-attachments/assets/819defe0-8e90-4e57-a999-984e08c3ebc5" />
 
 ---
 
-### 🧑‍🎓 2. Absensi Mahasiswa
+### 2. Absensi Mahasiswa
 Digunakan untuk proses absensi masuk dan keluar mahasiswa.
-
 Fungsi:
 - Input NIM mahasiswa
 - Pemilihan mata kuliah
@@ -37,11 +39,14 @@ Fungsi:
 - Menampilkan riwayat absensi mahasiswa
 - Menghapus seluruh data absensi
 
+</br>
+
+<img width="1030" height="668" alt="image" src="https://github.com/user-attachments/assets/41b69a5b-3938-49bb-b8ca-723d351e7cb3" />
+
 ---
 
-### 💳 3. Daftarkan KTM (RFID)
+### 3. Daftarkan KTM (RFID)
 Digunakan untuk mendaftarkan kartu RFID agar absensi dapat dilakukan dengan cepat.
-
 Fungsi:
 - Menampilkan hasil scan ID kartu RFID
 - Mendaftarkan kartu RFID ke data mahasiswa
@@ -49,9 +54,13 @@ Fungsi:
 - Menampilkan daftar kartu KTM terdaftar
 - Menghapus data kartu RFID
 
+</br>
+
+<img width="1026" height="670" alt="image" src="https://github.com/user-attachments/assets/0e878577-56a3-4bb2-9ac0-2e52f47073f7" />
+
 ---
 
-### 🗂️ 4. Data Mahasiswa
+### 4. Data Mahasiswa
 Digunakan untuk mengelola data mahasiswa dan jadwal mata kuliah.
 
 Fungsi:
@@ -63,23 +72,9 @@ Fungsi:
 - Mengupdate jadwal mata kuliah
 - Menghapus jadwal mata kuliah
 
----
+</br>
 
-## 🎯 Tujuan Aplikasi
-Aplikasi ini bertujuan untuk mempermudah proses **pendataan dan absensi mahasiswa** secara **efisien, cepat, dan terkomputerisasi**, serta sebagai implementasi nyata konsep **Pemrograman Berorientasi Objek dan GUI Java**.
-
----
-
-## 📌 Catatan
-Project ini dikembangkan untuk kebutuhan akademik dan dapat dikembangkan lebih lanjut dengan integrasi database (MySQL) atau perangkat RFID secara langsung.
+<img width="1033" height="674" alt="image" src="https://github.com/user-attachments/assets/96e84465-fe44-4b64-a249-2a6e12eaaf92" />
 
 ---
 
-## 👨‍💻 Author
-**M. Niko Nur C.H.Y**  
-Program Studi Ilmu Komputer  
-Semester 3
-
----
-
-✨ _Sistem Absensi Mahasiswa Berbasis RFID – Java GUI NetBeans_
